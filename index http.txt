@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Olympians Gym</title>
+</head>
+<body>
+        <header>
+                <h1>Welcome to Olympians Gym</h1>
+        </header>
+        <nav>
+                <ul>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#hours">Hours</a></li>
+                        <li><a href="#amenities">Amenities</a></li>
+                        <li><a href="#membership">Membership</a></li>
+                        <li><a href="#location">Location</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                </ul>
+        </nav>
+        <main>
+                <section id="about">
+                        <h2>About Olympians Gym</h2>
+                        <p>Olympians Gym is a state-of-the-art fitness facility located in the heart of the city. Our mission is to provide a welcoming and inclusive environment where members can achieve their fitness goals and lead a healthy lifestyle. With a wide range of equipment, classes, and personal training options, we have something for everyone.</p>
+                </section>
+                <section id="hours">
+                        <h2>Hours</h2>
+                        <p>Olympians Gym is open 7 days a week, from 5:00am to 11:00pm. Our staffed hours are from 8:00am to 8:00pm, Monday to Friday, and 9:00am to 5:00pm on weekends. Come visit us anytime to work on your fitness!</p>
+                </section>
+                <section id="amenities">
+                        <h2>Amenities</h2>
+                        <ul>
+                                <li>Free weights</li>
+                                <li>Cardio machines (treadmills, stationary bikes, ellipticals)</li>
+                                <li>Strength training machines</li>
+                                <li>Group fitness studios</li>
+                                <li>Personal training</li>
+                                <li>Locker rooms with showers</li>
+                                <li>Complimentary towel service</li>
+                        </ul>
+                </section>
+                <section id="membership">
+                        <h2>Membership</h2>
+                        <p>Becoming a member of Olympians Gym gives you access to all of our facilities and amenities. We offer flexible monthly membership plans, as well as discounts for students, seniors, and military personnel. Stop by the front desk or give us a call to learn more about our membership options.</p>
+                </section>
+                <section id="location">
+                        <h2>Location</h2>
+                        <p>Olympians Gym is located at 22611 Lougheed hwy, in the center of the city. We are easily accessible by car or public transportation. There is ample parking available.</p>
+                </
